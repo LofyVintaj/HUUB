@@ -4,7 +4,7 @@ asgiref==3.2.10
 billiard==3.6.3.0
 CacheControl==0.12.6
 celery==4.4.7
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 colorama==0.4.3
 contextlib2==0.6.0
